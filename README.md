@@ -11,7 +11,7 @@ YashCoin is a ERC20 cryptocurrency token made using Solidity, Hardhat, OpenZeppe
 
 <!-- end of the list -->
 
-<br><br>
+<br>
 **What is ERC20?**<br>
 The ERC-20 introduces a standard for Fungible Tokens, in other words, they have a property that makes each Token be exactly the same (in type and value) as another Token. For example, an ERC-20 Token acts just like the ETH, meaning that 1 Token is and will always be equal to all the other Tokens.
 
